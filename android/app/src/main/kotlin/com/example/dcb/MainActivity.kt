@@ -1,4 +1,4 @@
-package com.example.dcb
+package com.dullcowboy.dullcowboy
 
 import io.flutter.embedding.android.FlutterActivity
 
