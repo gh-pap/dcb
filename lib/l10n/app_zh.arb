@@ -1,0 +1,6 @@
+{
+  "@@locale": "zh", 
+  "flutterDemoTitle": "Flutter 演示",
+  "flutterDemoHomePageTitle": "Flutter 演示主页",
+  "buttonPressMessage": "您已按下按钮这么多次:"
+}

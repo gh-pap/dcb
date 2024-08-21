@@ -1,0 +1,6 @@
+{
+  "@@locale": "it",  
+  "flutterDemoTitle": "Dimostrazione di Flutter",
+  "flutterDemoHomePageTitle": "Pagina iniziale della dimostrazione di Flutter",
+  "buttonPressMessage": "Hai premuto il pulsante così tante volte:"
+}
